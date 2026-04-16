@@ -13,7 +13,3 @@ Then outputs the total area of the shapes the user inputs.
 - `Circle.java`: Class Circle inheritances from `Shape.java`. It is called when the user input circle shape to calculate specific things.
 - `ThreeDShape`: A Class to repreasent 3D shape, in this case is cube.
 - `Cube.java`: Class Circle inheritances from `ThreeDShape.java`. It is called when the user input cube shape to calculate specific things.
-
-## Important Notes
-- The other versions is provided 
-[here](https://drive.google.com/drive/folders/1_znluESHfB7sUUFvjZ8FWRFQJ2jNuG0N?usp=sharing).
